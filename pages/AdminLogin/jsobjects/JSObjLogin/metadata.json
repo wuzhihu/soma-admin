@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObjLogin",
+    "pageId": "AdminLogin",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "AdminLogin_JSObjLogin",
+  "deleted": false,
+  "gitSyncId": "677f4db55d931e2ecbfcf7ca_677f837d5d931e2ecbfcf7d5"
+}

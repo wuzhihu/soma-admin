@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObjectHome",
+    "pageId": "AdminHome",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "AdminHome_JSObjectHome",
+  "deleted": false,
+  "gitSyncId": "677f4db55d931e2ecbfcf7ca_678671c45d931e2ecbfcf860"
+}
