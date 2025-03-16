@@ -2,6 +2,7 @@
   "unpublishedPage": {
     "name": "AdminLogin",
     "slug": "adminlogin",
+    "customSlug": "",
     "layouts": [
       {
         "viewMode": false,
